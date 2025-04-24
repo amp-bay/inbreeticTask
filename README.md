@@ -1,12 +1,54 @@
-# React + Vite
+# InbreeticTask
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Quick Task project built primarily using **JavaScript**, with additional support from **HTML** and **CSS**.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About the Project
+This project is designed to perform a quick task efficiently and effectively. The primary aim is to demonstrate functionality using a clean and modular codebase written in **JavaScript**.
 
-## Expanding the ESLint configuration
+## Features
+- Lightweight and fast.
+- Modular and easy-to-update code.
+- Clean and responsive user interface.
+- Cross-browser compatibility.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+- **JavaScript** (92.5%) - Core logic and functionality.
+- **HTML** (4.7%) - Structure and layout.
+- **CSS** (2.8%) - Styling and design.
+
+## Getting Started
+
+### Prerequisites
+Ensure you have the following installed on your system:
+- Node.js (v14 or higher)
+- npm (Node Package Manager)
+
+### Installation
+1. Clone the repository:
+   ```bash
+  git clone https://github.com/amp-bay/inbreeticTask.git
+   
+2.Navigate to the project directory:
+  ```bash
+  cd inbreeticTask
+
+3.Install dependencies:
+  ```bash
+npm install
+
+
+
+
+
