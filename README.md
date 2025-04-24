@@ -1,4 +1,4 @@
-# InbreeticTask
+ # InbreeticTask
 
 A Quick Task project built primarily using **JavaScript**, with additional support from **HTML** and **CSS**.
 
@@ -10,18 +10,10 @@ A Quick Task project built primarily using **JavaScript**, with additional suppo
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About the Project
 This project is designed to perform a quick task efficiently and effectively. The primary aim is to demonstrate functionality using a clean and modular codebase written in **JavaScript**.
-
-## Features
-- Lightweight and fast.
-- Modular and easy-to-update code.
-- Clean and responsive user interface.
-- Cross-browser compatibility.
 
 ## Technologies Used
 - **JavaScript** (92.5%) - Core logic and functionality.
@@ -42,13 +34,19 @@ Ensure you have the following installed on your system:
    
 2.Navigate to the project directory:
   ```bash
-  cd inbreeticTask
+ cd inbreeticTask
 
 3.Install dependencies:
-  ```bash
+ ```bash
 npm install
 
+##Usage
+```bash
+npm start
 
+Contact
 
+For questions or feedback, feel free to reach out:
 
+GitHub: amp-bay
 
