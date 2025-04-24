@@ -2,6 +2,7 @@ import React from 'react'
 import OurServices from './MainSection/OurServices'
 import FeedBack from './MainSection/FeedBack'
 import OurBlogs from './MainSection/OurBlogs'
+import Footer from './Footer'
 
 const Main = () => {
   return (
@@ -9,6 +10,7 @@ const Main = () => {
     <OurServices/> 
     <FeedBack/>
     <OurBlogs/>
+    <Footer/>
 
    </div>
   )
