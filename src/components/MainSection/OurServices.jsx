@@ -77,7 +77,7 @@ const OurServices = () => {
         <img src={incomeImage}/>
       </div>
       <div className=' w-[40%] pt-[4.125rem] '>
-        <p className='font-normal text-[2.25rem] leading-[1.56] text-black font-monrope'>We connect our customers with the best, and help them keep up-and stay open.</p>
+        <p className='font-normal text-[2.25rem] leading-[1.56] text-black font-manrope'>We connect our customers with the best, and help them keep up-and stay open.</p>
         <div className='flex flex-col mt-10'>
             <div className='flex gap-[1.688rem] mb-[1.75rem] '><img className='w-8 h-8' src={TickBox}/> <p className='font-normal text-[1.25rem] leading-[1.6] text-black font-open-sans'>We connect our customers with the best.</p></div>
             <div className='flex gap-[1.688rem] mb-[1.75rem]'><img className='w-8 h-8'  src={TickBox}/> <p className='font-normal text-[1.25rem] leading-[1.6] text-black font-open-sans'>Advisor success customer launch party.</p></div>
@@ -91,7 +91,7 @@ const OurServices = () => {
 
     <div className='flex justify-between my-30'>
       <div className=' w-[45%] pt-[6.625rem]'>
-        <p className='font-normal text-[2.25rem] mb-16 leading-[1.56] text-black font-monrope'>We connect our customers with the best, and help them keep up-and stay open.</p>
+        <p className='font-normal text-[2.25rem] mb-16 leading-[1.56] text-black font-manrope'>We connect our customers with the best, and help them keep up-and stay open.</p>
         
         <div className='flex items-center pl-5 py-4 gap-3 mb-6 hover:bg-[#0A2640] hover:text-white  rounded-sm group' >
           <LeafIcon className="text-black group-hover:text-white" />
