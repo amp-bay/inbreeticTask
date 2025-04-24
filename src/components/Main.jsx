@@ -1,8 +1,12 @@
 import React from 'react'
+import OurServices from './MainSection/OurServices'
 
 const Main = () => {
   return (
-    <div>Main</div>
+   <div>
+    <OurServices/> 
+
+   </div>
   )
 }
 
